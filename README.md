@@ -41,11 +41,9 @@ Full Stack App/
 ### 1. Clone the Repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-cd "Full Stack App"
+git clone https://github.com/DabhadeRutuja/Gemini-AI-Project.git
+cd Gemini-AI-Project
 ```
-
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your repository URL.
 
 ### 2. Set Up the Backend
 
