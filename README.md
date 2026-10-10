@@ -121,15 +121,15 @@ http://localhost:5173
 
 ### 1. Application Interface
 
-![Gemini API Project ](Screenshots/Screenshot 01.png)
+![Gemini API Project ](Screenshots/Screenshot 01.jpg)
 
 ### 2. Prompt and Response
 
-(Screenshots/Screenshot 02.png)
+(Screenshots/Screenshot 02.jpg)
 
 ### 3. Backend API / Output
 
-(Screenshots/Screenshot 03.png)
+(Screenshots/Screenshot 03.jpg)
 
 ## 🔮 Future Enhancements
 
