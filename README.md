@@ -117,6 +117,20 @@ http://localhost:5173
 5. The backend requests a response from the configured AI provider.
 6. The generated response appears on the webpage.
 
+## 📸 Project Screenshots
+
+### 1. Application Interface
+
+![Gemini API Project ](Screenshots/Screenshot 01.png)
+
+### 2. Prompt and Response
+
+(Screenshots/Screenshot 02.png)
+
+### 3. Backend API / Output
+
+(Screenshots/Screenshot 03.png)
+
 ## 🔮 Future Enhancements
 
 - Chat history
