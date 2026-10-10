@@ -119,15 +119,15 @@ http://localhost:5173
 
 ## 📸 Project Screenshots
 
-### 1. Application Interface
+
 
 ![Gemini API Project - Application Interface](Screenshots/Screenshot01.jpg)
 
-### 2. Prompt and Response
+
 
 ![Gemini API Project - Prompt and Response](Screenshots/Screenshot02.jpg)
 
-### 3. Backend API / Output
+
 
 ![Gemini API Project - Backend API Output](Screenshots/Screenshot03.jpg)
 
